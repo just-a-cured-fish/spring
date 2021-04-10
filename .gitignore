@@ -1,0 +1,10 @@
+# Project exclude paths
+/spring3_mypsringframework/target/
+/spring4_aop/target/
+/spring5_selfaop-jdk/target/
+/spring_aop_cglib/target/
+/springtest2/target/
+/springtest4/target/
+/target/
+.idea
+*.iml
